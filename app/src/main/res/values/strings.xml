@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConstraintLayout Sample</string>
+    <string name="helloMaugTextView">Hello MAUG !</string>
+</resources>
